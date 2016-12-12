@@ -1,0 +1,6 @@
+Installing SourceHub is very easy:
+* Copy all the files with an FTP client to the server.
+* Configure config.php and set the sources path.
+* Put your files into the directory yu choosed.
+
+That's it, have fun.

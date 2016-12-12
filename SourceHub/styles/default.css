@@ -1,0 +1,103 @@
+body {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	background-color:#FFFFFF;
+	color:#666666;
+	padding-left:15%;
+	padding-right:15%;
+}
+
+table {
+	width:100%;
+}
+
+.area {
+	color:#000000;
+	border:1px solid #666666;
+	background:#EAEAEA;
+}
+
+.lines {
+	color:#666666;
+	background-color:#d8d8d8;
+	width:1px;
+}
+
+.upper {
+	color:#666666;
+	font-family:Arial;
+	border:1px solid #d8d8d8;
+	background:#EAEAEA;
+}
+
+.infol {
+	color:#666666;
+	font-family:Arial;
+	border-left:1px solid #d8d8d8;
+	border-right:1px solid #EAEAEA;
+	border-bottom:1px solid #d8d8d8;
+	border-top:1px solid #d8d8d8;
+	background:#EAEAEA;
+}
+
+.infor {
+	color:#666666;
+	font-family:Arial;
+	border-left:1px solid #EAEAEA;
+	border-right:1px solid #d8d8d8;
+	border-bottom:1px solid #d8d8d8;
+	border-top:1px solid #d8d8d8;
+	background:#EAEAEA;
+	text-align:right;
+}
+
+.content {
+	color:#000000;
+	font-family:Arial;
+	border:1px solid #d8d8d8;
+	border-top:#EAEAEA;
+	background:#FFFFFF;
+	padding-left:20px;
+	text-align:left;
+	width:100%
+}
+
+.default_content {
+	color:#000000;
+	font-family:Arial;
+	border:1px solid #d8d8d8;
+	background:#FFFFFF;
+	padding-left:20px;
+}
+
+.browser {
+	color:#000000;
+	font-family:Arial;
+	border:1px solid #d8d8d8;
+	border-top:#EAEAEA;
+	background:#FFFFFF;
+	padding:10px;
+}
+
+.browser_other {
+	padding-right:50px;
+}
+
+#header {
+	padding-left:0%;
+}
+
+#name {
+	font-size:large;
+}
+
+#edit {
+	font-size:12px;
+	color:#666666;
+}
+
+#edit:visited
+{
+	font-size:12px;
+	color:#666666;
+}

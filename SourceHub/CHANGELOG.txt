@@ -1,0 +1,105 @@
+v0.1.0
+
+    * Project begins 
+
+v0.2.0
+
+    * Fixed GET bugs.
+    * Cleaned code.
+    * Added images to directory's. 
+
+v0.3.0
+
+    * Added images to files.
+    * Optimised while() loop in browser.php.
+    * Fixed infinite loop bug.
+    * Fixed minor bugs... 
+
+v0.4.0
+
+    * Now recognizes basic file types (c,h...)
+    * Better security.
+    * Fixed Firefox table alignment bug.
+    * Added basic variables into config.php.
+    * Fixed many bugs. 
+
+v0.5.0
+
+    * Fixed: 2 > dir tree view.
+    * Fixed spaces in file names bug.
+    * Now recognizes every file type with end().
+    * General optimizations.
+    * Fixed minor bugs... 
+
+v0.6.0
+
+    * Now uses CSS file default.css.
+    * Fixed file name bugs.
+    * Fixed infinite "/" bug.
+    * Added double loop in index.php to read the lines, then the content.
+    * browse= and file= works great now. 
+
+v0.7.0
+
+    * Fixed major bug in IE with tables.
+    * Added "Home" button.
+    * Added some variables.
+    * Optimized code.
+    * Fixed many minor bugs... 
+
+v0.8.0
+
+    * Added much more security.
+    * Added header.php, footer.php.
+    * Fixed bugs... 
+
+v0.9.0
+
+    * "Home" outside while() loop.
+    * Added "Back" button but not using it by default.
+    * Added another while() loop organize dirs/files. 
+
+v0.9.5
+
+    * Uses GeSHi library to color the code.
+    * Recognizes file types even better.
+    * Replaces spaces with %20.
+    * General optimizations.
+    * Cleaned code.
+    * Bugs fixed... 
+
+v0.9.6
+
+    * Added "Download" function.
+    * Added download.php. 
+
+v1.0.0 (RC1)
+
+    * browse= and file= are relative paths now!
+    * Better security.
+    * Design changed.
+    * Added tables, CSS, and modified many visual things.
+    * Added relative file location in "File: ".
+    * Added current file type.
+    * Added current dir in header.php.
+    * Added download/close icon.
+    * Added padding left/right to body.
+    * Added .php icon.
+    * Added .exe icon.
+    * Added "Refresh" function.
+    * view.php contains now the file viewer.
+    * functions.php contains SH functions.
+    * Added current file size.
+    * Fixed ALL space issues.
+    * Better IE compatibility.
+    * Better error handling.
+    * Removed unused code.
+    * "Compressed code".
+    * Added favicon.
+    * Fixed download issues.
+    * Fixed ALL alignement issues!
+    * Changed charset from UTF-8 to ISO-8859-1.
+    * Fixed minor bugs...
+    * Cleaned code.
+    * CSS level 2.1 valid.
+    * Other small modifications... 

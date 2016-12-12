@@ -1,0 +1,16 @@
+SourceHub v1.0 Release Candidate 1 (RC1)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Release Notes
+~~~~~~~~~~~~~
+Ok, so this is the first public beta release,
+so if you find any bugs, please contact me at
+rehn.christoffer@gmail.com, so I can fix them,
+but this release should be nearly stable, there
+are still some things to fix (some minor bugs,
+validated W3C validation etc.). And if you have
+any comments, want to ask for improvements, or
+just want to contact me, do not hesitate.
+
+This project is distributed as free software,
+see the index.php for more info.
