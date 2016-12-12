@@ -27,7 +27,7 @@ December 2011
 ## pong
 December 2011
 
-![pong1](screenshots/pong1.png?raw=true) ![pong2](screenshots/pong2.png?raw=true)
+![pong1](screenshots/pong1.gif?raw=true) ![pong2](screenshots/pong2.gif?raw=true)
 
 ## tactical-wars-cx
 October 2011
