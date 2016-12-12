@@ -4,6 +4,8 @@ Old projects from the archive; tread carefully
 ### mode7
 January 2013
 
+[[https://github.com/username/repository/blob/master/img/octocat.png|alt=octocat]]
+
 ### nc
 June 2012
 
