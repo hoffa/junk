@@ -1,0 +1,28 @@
+TODO:
+- Real position detection algorithm
+- AI
+- use path finding rather than direct flight
+
+0.2:
+- Fixed a typo in the code that might have caused issues at the end of a game
+- Fixed an issue that caused the game to crash at the end, if the user had returned from the unit selection screen to the menu before playing
+- Fixed total damage & previous damage sometimes showing wrong values
+- Added a simple in-game menu
+- Added a proper victory screen
+- Added a help screen
+- Implemented a proper algorithm that generates a list of cells within a certain range (rather than being hard coded)
+- If the player presses the "0" key, circles are drawn around the units for more visibility
+- The fuel/fatigue now decreases/increases based on the distance moved
+- Changed the attributes of different units for more balance
+- The initial available area (on the only map) for placing units has been reduced
+- Only one loop is now used to draw the units, rather than two
+- Units now face the correct direction when the y-coordinate doesn't change while moving
+- After placing the units, the cursor goes to the last unit placed rather than the HQ
+- When attacking, only attackable units are drawn over
+- If a move or an attack is canceled, the cursor returns to the unit
+- Special units no longer disappear when Blue places them
+- Blue units now initially face left
+- Some minor code & UI changes
+
+0.1:
+- First release
