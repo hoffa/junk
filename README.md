@@ -30,6 +30,8 @@ December 2011
 ## tactical-wars-cx
 October 2011
 
+![tactical-wars-cx1](screenshots/tactical-wars-cx1.gif?raw=true) ![tactical-wars-cx2](screenshots/tactical-wars-cx2.gif?raw=true)
+
 ## pixel-escape
 June 2011
 
