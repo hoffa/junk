@@ -1,5 +1,5 @@
 # old
-Old projects from the archive; tread carefully
+Old projects from the archive; tread carefully. For reference I'm a '92 kid.
 
 ## mode7
 January 2013
@@ -44,3 +44,5 @@ June 2008
 
 ## batbomber
 January 2008
+
+Crappy Batch "virus".
