@@ -4,7 +4,7 @@ Old projects from the archive; tread carefully. For reference I'm a '92 kid.
 ## mode7
 January 2013
 
-An SNES Mode 7 demo.
+A [Mode 7](https://en.wikipedia.org/wiki/Mode_7) demo.
 
 ![mode7](screenshots/mode7.png?raw=true)
 
