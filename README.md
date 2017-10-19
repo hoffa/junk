@@ -68,9 +68,14 @@ PHP file explorer. Probably riddled with security holes and other embarassments.
 ## NVIDIA driver benchmarks
 January 2008
 
-https://forums.laptopvideo2go.com/topic/16952-benchmark-results-for-nvidia-geforce-8600m-gt-hoffa/
+http://web.archive.org/web/20131022101503/http://forums.laptopvideo2go.com/topic/16952-benchmark-results-for-nvidia-geforce-8600m-gt-hoffa/
 
 ## batbomber
 January 2008
 
 Crappy Batch "virus". Had a lot of fun at school.
+
+## Reading HTML files on Sony Ericsson K700i
+August 2006
+
+http://web.archive.org/web/20171019044442/http://myforum.lasyk.net/showthread.php?t=26559
