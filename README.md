@@ -65,6 +65,11 @@ June 2008
 
 PHP file explorer. Probably riddled with security holes and other embarassments.
 
+## NVIDIA driver benchmarks
+January 2008
+
+https://forums.laptopvideo2go.com/topic/16952-benchmark-results-for-nvidia-geforce-8600m-gt-hoffa/
+
 ## batbomber
 January 2008
 
