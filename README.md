@@ -1,5 +1,5 @@
-# junk
-Old project and stuff I've managed to rescue. Don't come here. For reference, I'm a '92 kid.
+# 💩 junk
+Old projects and stuff that I've managed to rescue. Don't come here. For reference, I'm a '92 kid.
 
 ## (2013/1) mode7
 
