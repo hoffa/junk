@@ -1,19 +1,19 @@
 # 💩 junk
 Old projects and stuff that I've managed to rescue. For fun and horror. Born in 1992.
 
-## (2013/1) mode7
+## *2013/1* Mode 7 demo
 
 A [Mode 7](https://en.wikipedia.org/wiki/Mode_7) demo.
 
 ![mode7](screenshots/mode7.png?raw=true)
 
-## (2012/6) nc
+## *2012/6* nc
 
 A file manager for TI-Nspire calculators.
 
 ![nc1](screenshots/nc1.png?raw=true) ![nc2](screenshots/nc2.png?raw=true)
 
-## (2012/5) dd2
+## *2012/5* Dodgin' Diamond 2
 
 Enhanced port of [Dodgin' Diamond 2](https://www.usebox.net/jjm/dd2/) for TI-Nspire calculators. 
 
