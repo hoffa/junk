@@ -67,7 +67,7 @@ PHP file explorer. Probably riddled with security holes and other embarassments.
 
 http://web.archive.org/web/20131022101503/http://forums.laptopvideo2go.com/topic/16952-benchmark-results-for-nvidia-geforce-8600m-gt-hoffa/
 
-## (2008/1) batbomber
+## (2008/1) BatBomber
 
 Crappy Batch "virus". Had a lot of fun at school.
 
