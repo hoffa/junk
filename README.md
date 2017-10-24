@@ -47,6 +47,12 @@ Strategy game of some sorts.
 
 ![pixel-escape1](screenshots/pixel-escape1.gif?raw=true) ![pixel-escape2](screenshots/pixel-escape2.gif?raw=true) ![pixel-escape3](screenshots/pixel-escape3.gif?raw=true) ![pixel-escape4](screenshots/pixel-escape4.gif?raw=true)
 
+## (2010/1) Conky volume value patch
+
+The username is Anonymous but pretty sure I wrote that back then.
+
+https://sourceforge.net/p/conky/patches/149/
+
 ## (2008/9) JVCDV
 
 http://web.archive.org/web/20081111143742/http://www.hydroxyde.fr/
