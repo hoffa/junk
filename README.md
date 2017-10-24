@@ -1,5 +1,5 @@
 # 💩 junk
-Old projects and stuff that I've managed to rescue. Don't come here. For reference, I'm a '92 kid.
+Old projects and stuff that I've managed to rescue. For fun and horror. Born in 1992.
 
 ## (2013/1) mode7
 
@@ -54,6 +54,8 @@ The username is Anonymous but pretty sure I wrote that back then.
 https://sourceforge.net/p/conky/patches/149/
 
 ## (2008/9) JVCDV
+
+A [jeuxvideo.com](http://jeuxvideo.com) user profile crawler/browser.
 
 http://web.archive.org/web/20081111143742/http://www.hydroxyde.fr/
 
