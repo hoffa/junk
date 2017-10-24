@@ -1,81 +1,68 @@
-# old
-Old projects from the archive; tread carefully. For reference I'm a '92 kid.
+# junk
+Old project and stuff I've managed to rescue. Don't come here. For reference, I'm a '92 kid.
 
-## mode7
-January 2013
+## (2013/1) mode7
 
 A [Mode 7](https://en.wikipedia.org/wiki/Mode_7) demo.
 
 ![mode7](screenshots/mode7.png?raw=true)
 
-## nc
-June 2012
+## (2012/6) nc
 
 A file manager for TI-Nspire calculators.
 
 ![nc1](screenshots/nc1.png?raw=true) ![nc2](screenshots/nc2.png?raw=true)
 
-## dd2
-May 2012
+## (2012/5) dd2
 
 Enhanced port of [Dodgin' Diamond 2](https://www.usebox.net/jjm/dd2/) for TI-Nspire calculators. 
 
 ![dd21](screenshots/dd21.png?raw=true) ![dd22](screenshots/dd22.png?raw=true)
 
-## link
-May 2012
+## (2012/5) link
 
 Small [nSDL](https://github.com/hoffa/nSDL) demo featuring Link.
 
 ![link](screenshots/link.png?raw=true)
 
-## owl
-December 2011
+## (2011/12) owl
 
 Some game engine written in Lua.
 
-## pong
-December 2011
+## (2011/12) pong
 
 Pong clone written in Lua for TI-Nspire calculators.
 
 ![pong1](screenshots/pong1.gif?raw=true) ![pong2](screenshots/pong2.gif?raw=true)
 
-## tactical-wars-cx
-October 2011
+## (2011/10) tactical-wars-cx
 
 Strategy game of some sorts.
 
 ![tactical-wars-cx1](screenshots/tactical-wars-cx1.gif?raw=true) ![tactical-wars-cx2](screenshots/tactical-wars-cx2.gif?raw=true)
 
-## pixel-escape
-June 2011
+## (2011/6) pixel-escape
 
 [A copter game.](http://www.ticalc.org/archives/files/fileinfo/439/43923.html)
 
 ![pixel-escape1](screenshots/pixel-escape1.gif?raw=true) ![pixel-escape2](screenshots/pixel-escape2.gif?raw=true) ![pixel-escape3](screenshots/pixel-escape3.gif?raw=true) ![pixel-escape4](screenshots/pixel-escape4.gif?raw=true)
 
-## JVCDV
-September 2008
+## (2008/9) JVCDV
 
 http://web.archive.org/web/20081111143742/http://www.hydroxyde.fr/
 
-## sourcehub
-June 2008
+## (2008/6) sourcehub
 
 PHP file explorer. Probably riddled with security holes and other embarassments.
 
-## NVIDIA driver benchmarks
-January 2008
+## (2008/1) NVIDIA driver benchmarks
 
 http://web.archive.org/web/20131022101503/http://forums.laptopvideo2go.com/topic/16952-benchmark-results-for-nvidia-geforce-8600m-gt-hoffa/
 
-## batbomber
-January 2008
+## (2008/1) batbomber
 
 Crappy Batch "virus". Had a lot of fun at school.
 
-## Reading HTML files on Sony Ericsson K700i
-August 2006
+## (2006/8) Reading HTML files on Sony Ericsson K700i
 
 http://web.archive.org/web/20171019044442/http://myforum.lasyk.net/showthread.php?t=26559
