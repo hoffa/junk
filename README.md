@@ -63,6 +63,8 @@ http://web.archive.org/web/20081111143742/http://www.hydroxyde.fr/
 
 PHP file explorer. Probably riddled with security holes and other embarassments.
 
+http://sourcehub.sourceforge.net
+
 ## (2008/1) NVIDIA driver benchmarks
 
 http://web.archive.org/web/20131022101503/http://forums.laptopvideo2go.com/topic/16952-benchmark-results-for-nvidia-geforce-8600m-gt-hoffa/
